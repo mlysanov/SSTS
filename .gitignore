@@ -1,0 +1,14 @@
+apps/ssts-backend/.idea
+apps/ssts-backend/.mvn
+apps/ssts-backend/mvnw
+apps/ssts-backend/mvnw.cmd
+apps/ssts-backend/target/
+apps/ssts-backend/projects/
+apps/ssts-backend/!.mvn/wrapper/maven-wrapper.jar
+apps/ssts-backend/!**/src/main/**/target/
+apps/ssts-backend/!**/src/test/**/target/
+
+apps/ssts-frontend/node_modules
+apps/ssts-frontend/build
+apps/ssts-frontend/.idea
+.idea
